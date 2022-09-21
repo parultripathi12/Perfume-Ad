@@ -1,0 +1,68 @@
+body{
+    background-color: #FFEBAD;
+}
+button{
+    background-color:#224B0C;
+    color:white;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    width: 200px;
+    height:30px
+    padding: 10px;
+    border-color: #224B0C;
+    text-align: center;
+    margin-bottom:10px;
+    margin-left:10px;
+    position:absolute;
+    font-family: Ubuntu;
+}
+button:hover{
+    background-color:#45901c;
+}
+.perfume{
+    
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 0;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+}
+.cart{
+    margin: 10px;
+    float: left;
+}
+h2{
+color: #CFD2CF;
+margin-left: 30px;
+font-size: 1.1rem;
+font-family: Exo;
+padding-top: 5px;
+
+}
+h1{
+    font-family: Paytone One;
+    font-size: 1.8rem;
+}
+.desc{
+    font-family: Baloo 2;
+    font-size: 1rem;
+    color: #CFD2CF;
+}
+.price{
+    font-family: Ultra;
+    color:#224B0C;
+    font-size: 1.5rem;
+}
+.price2{
+    font-size: 0.8rem;
+}
+.container{
+    width:530px;
+    background-color: whitesmoke;
+   margin: auto;
+   height:400px;
+   position:relative;
+   padding-right: 10px;
+   border-radius: 2rem;
+   margin-top: 90px;
+}
